@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>WidgetUtama</class>
+ <widget class="QWidget" name="WidgetUtama">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>533</width>
+    <height>381</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout">
+   <item row="0" column="0">
+    <widget class="QTreeWidget" name="treeWidget">
+     <property name="maximumSize">
+      <size>
+       <width>180</width>
+       <height>16777215</height>
+      </size>
+     </property>
+     <property name="verticalScrollBarPolicy">
+      <enum>Qt::ScrollBarAsNeeded</enum>
+     </property>
+     <property name="horizontalScrollBarPolicy">
+      <enum>Qt::ScrollBarAsNeeded</enum>
+     </property>
+     <column>
+      <property name="text">
+       <string>Category</string>
+      </property>
+     </column>
+     <item>
+      <property name="text">
+       <string>All Downloads</string>
+      </property>
+      <property name="icon">
+       <iconset resource="image.qrc">
+        <normaloff>:/image/icon/big/utamaalldownloads.png</normaloff>:/image/icon/big/utamaalldownloads.png</iconset>
+      </property>
+      <item>
+       <property name="text">
+        <string>Compressed</string>
+       </property>
+       <property name="icon">
+        <iconset resource="image.qrc">
+         <normaloff>:/image/icon/big/utamacompressed.png</normaloff>:/image/icon/big/utamacompressed.png</iconset>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Document</string>
+       </property>
+       <property name="icon">
+        <iconset resource="image.qrc">
+         <normaloff>:/image/icon/big/utamadocument.png</normaloff>:/image/icon/big/utamadocument.png</iconset>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Music</string>
+       </property>
+       <property name="icon">
+        <iconset resource="image.qrc">
+         <normaloff>:/image/icon/big/utamamusic.png</normaloff>:/image/icon/big/utamamusic.png</iconset>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Video</string>
+       </property>
+       <property name="icon">
+        <iconset resource="image.qrc">
+         <normaloff>:/image/icon/big/utamavideo.png</normaloff>:/image/icon/big/utamavideo.png</iconset>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Other</string>
+       </property>
+       <property name="icon">
+        <iconset resource="image.qrc">
+         <normaloff>:/image/icon/big/utamaother.png</normaloff>:/image/icon/big/utamaother.png</iconset>
+       </property>
+      </item>
+     </item>
+     <item>
+      <property name="text">
+       <string>Finished</string>
+      </property>
+      <property name="icon">
+       <iconset resource="image.qrc">
+        <normaloff>:/image/icon/big/utamafinished.png</normaloff>:/image/icon/big/utamafinished.png</iconset>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>Unfinished</string>
+      </property>
+      <property name="icon">
+       <iconset resource="image.qrc">
+        <normaloff>:/image/icon/big/utamaunfinished.png</normaloff>:/image/icon/big/utamaunfinished.png</iconset>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>Batch</string>
+      </property>
+      <property name="icon">
+       <iconset resource="image.qrc">
+        <normaloff>:/image/icon/big/Internet Options.png</normaloff>:/image/icon/big/Internet Options.png</iconset>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>Grabber</string>
+      </property>
+      <property name="icon">
+       <iconset resource="image.qrc">
+        <normaloff>:/image/icon/big/grabber.png</normaloff>:/image/icon/big/grabber.png</iconset>
+      </property>
+     </item>
+    </widget>
+   </item>
+   <item row="0" column="1">
+    <widget class="Line" name="line">
+     <property name="orientation">
+      <enum>Qt::Vertical</enum>
+     </property>
+    </widget>
+   </item>
+   <item row="0" column="2">
+    <layout class="QVBoxLayout" name="verticalLayout">
+     <item>
+      <widget class="QTableView" name="tableView"/>
+     </item>
+     <item>
+      <widget class="QTextBrowser" name="tbLogText">
+       <property name="maximumSize">
+        <size>
+         <width>16777215</width>
+         <height>200</height>
+        </size>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+  </layout>
+ </widget>
+ <resources>
+  <include location="image.qrc"/>
+ </resources>
+ <connections/>
+</ui>

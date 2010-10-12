@@ -1,0 +1,5 @@
+Quma is an IDM Like Download Manager based on wget enggine...
+
+Untuk dialog preference, tambahkan semua fasilitas
+option yang ada dalam wget. lihat man wget.
+

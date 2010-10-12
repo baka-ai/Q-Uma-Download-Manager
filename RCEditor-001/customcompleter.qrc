@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/keyword</file>
+        <file>resources/wordlist</file>
+    </qresource>
+</RCC>

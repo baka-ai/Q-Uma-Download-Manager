@@ -1,0 +1,12 @@
+INPUT(
+./release/main.o
+./release/textedit.o
+./release/dialogeditor.o
+./release/highlighter.o
+./release/wgetrchelp.o
+./release/moc_textedit.o
+./release/moc_dialogeditor.o
+./release/moc_highlighter.o
+./release/moc_wgetrchelp.o
+./release/qrc_customcompleter.o
+);

@@ -1,0 +1,48 @@
+[Sat Mar 20 17:29:16 WIT 2010]
+Pada saat run applikasi, jika lewat terminal,
+perbolehkan jika ada pemanggilan dengan argumen.
+akan tetapi argumen berupa download argumen. Misal:
+
+Q-Uma http://foo.com/bar.rar -t inf -c -O ./foo-bar.rar
+
+http://foo.com/bar.rar adalah alamat download
+
+-t inf -c -O ./foo-bar.rar adalah option dari wget.
+Option-option ini tidak boleh terlepas dari wget.
+
+Ganbare!!!
+-------------------------------------------------------------
+
+[Wed Jun 30 21:05:59 WIT 2010]
+-> Main window:
+    buat agar window selalu mengecek waktu, gunakan QTime!
+    [lihat : dialog scheduler]
+        Jika auto-start (value = 1)
+            selalu cek waktu, apakah telah menunjukkan waktunya.
+        begitu juga untuk stop time.
+
+        jika Auto-stop, cek apakah waktunya telah tiba:
+            jika ya -> stop all process;
+
+
+-> Dialog scheduler
+    Tambahkan beberapa signal:
+    1. pada saat tekan apply, jika auto-start(value=1)
+            langsung jalankan timer pada MainWindow.
+
+-> Main Widget
+    Jalankan QProcess.....
+
+-> Tambahkan Dialog Credits:
+    buat menggunakan animasi:
+    - Nama applikasi    (Pake wigly widget)
+    - Developer
+    - Dependensi
+    - wget version
+    - Halaman persembahan
+    - Special thanks
+
+Pada saat log dibuat, langsung create lognya..
+format:
+    ~/.q-uma/log/[filename]/log.txt
+pada saat di remove, remove directory dan file lognya.

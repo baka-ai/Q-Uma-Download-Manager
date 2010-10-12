@@ -1,0 +1,4 @@
+Spider mode enabled. Check if remote file exists.
+--2010-06-28 18:04:28--  http://dsds99/
+Resolving dsds99... failed: Temporary failure in name resolution.
+wget: unable to resolve host address `dsds99'

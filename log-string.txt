@@ -1,0 +1,113 @@
+                    /*
+                      CONNECT
+                      "Unable to convert `%s' to a bind address.  Reverting to ANY.\n"
+                      "Connecting to %s[%s]:%hu... ", connection_host_name, pretty_addr, port
+                      "Connecting to %s:%hu... ", pretty_addr, port
+                      "connected.\n"
+                      "failed: %s.\n", strerror (errno)
+
+                      COOKIES
+                      "Error in Set-Cookie, field `%s'"
+                      "Syntax error in Set-Cookie: %s at position %d.\n"
+                      "Cannot open cookies file `%s': %s\n"
+                      "Error writing to `%s': %s\n"
+                      "Error closing `%s': %s\n"
+
+                      FTP
+                      "Error in server response, closing control connection.\n"
+                      "Error in server greeting.\n"
+                      "Write failed, closing control connection.\n"
+                      "The server refuses login.\n"
+                      "Login incorrect.\n"
+                      "Logged in!\n"
+                      "Unknown type `%c', closing control connection.\n"
+                      "No such directory `%s'.\n\n"
+                      "Cannot initiate PASV transfer.\n"
+                      "Cannot parse PASV response.\n"
+                      "couldn't connect to %s:%hu: %s\n"
+                      "socket: %s\n"
+                      "Bind error (%s).\n"
+                      "Invalid PORT.\n"
+                      "\nREST failed; will not truncate `%s'.\n"
+                      "\nREST failed, starting from scratch.\n"
+                      "No such file `%s'.\n\n"
+                      "Length: %s"
+                      " [%s to go]"
+                      "%s: %s, closing control connection.\n"
+                      "%s (%s) - Data connection: %s; "
+                      "Control connection closed.\n"
+                      "Data transfer aborted.\n"
+                      "File `%s' already there, not retrieving.\n"
+                      "%s (%s) - `%s' saved [%ld]\n\n"
+                      "%s URL: %s [%ld] -> \"%s\" [%d]\n",tms, hurl, len, locf, count
+                      "Remote file no newer than local file `%s' -- not retrieving.\n"
+                      "The sizes do not match (local %ld) -- retrieving.\n\n"
+                      "%s: unknown/unsupported file type.\n"
+                      "%s: corrupt time-stamp.\n"
+                      "Unrecognized permissions for %s.\n"
+                      "No matches on pattern `%s'.\n"
+
+                      SSL
+                      "Could not seed OpenSSL PRNG; disabling SSL.\n"
+                      "Warrining validation of Server Cert not possible!\n"
+
+                      HOSTS
+                      "failed: %s.\n"
+                      "failed: timed out.\n"
+
+                      HTML
+                      "%s: Cannot resolve incomplete link %s.\n"
+                      "%s: Invalid URL %s: %s\n"
+
+                      HTTP
+                      "Failed to set up an SSL context\n"
+                      "Failed to load certificates from %s\n"
+                      "Trying without the specified certificate\n"
+                      "Failed to get certificate key from %s\n"
+                      E "Unable to establish SSL connection.\n"
+                      "POST data file missing: %s\n"
+                      "Failed writing HTTP request: %s.\n"
+                      "%s request sent, awaiting response... "
+                      "Read error (%s) in headers.\n"
+                      "Authorization failed.\n"
+                      "Unknown authentication scheme.\n"
+                      "The file is already fully retrieved; nothing to do.\n\n"
+                      "Continued download failed on this file, which conflicts with `-c'.\nRefusing to truncate existing file `%s'.\n\n"
+                      "Warning: wildcards not supported in HTTP.\n"
+                      "File `%s' already there, will not retrieve.\n"
+                      E "Cannot write to `%s' (%s).\n"
+                      E "ERROR: Redirection (%d) without location.\n"
+                      E "%s ERROR %d: %s.\n"
+                      "%s (%s) - `%s' saved [%ld/%ld]\n\n"
+                      "%s (%s) - Connection closed at byte %ld/%ld. "
+                      "%s (%s) - Read error at byte %ld (%s)."
+                      "%s (%s) - Read error at byte %ld/%ld (%s). "
+
+                      MAIN
+                      "No URLs found in %s.\n"
+                      "\nFINISHED --%s--\nDownloaded: %s bytes in %d files\n"
+                      "Download quota (%s bytes) EXCEEDED!\n"
+
+                      PROCESS
+                      "\n%*s[ skipping %dK ]",2 + skipped_k_len, "", skipped_k
+                      "\n%5ldK", skipped / 1024
+                      "%3d%%", percentage
+                      " %s",retr_rate (bytes, dltime - dp->last_timer_value, 1  ## download speed
+                      "\n%5ldK", dp->rows * row_bytes / 1024
+
+                      RES
+                      "Cannot open %s: %s"
+
+                      retr
+                      E "Error parsing proxy URL %s: %s.\n"
+                      "Error in proxy URL %s: Must be HTTP.\n"
+                      "%d redirections exceeded.\n"
+                      "Giving up.\n\n"
+                      "Retrying.\n\n"
+
+                      UTILS
+                      E "%s: %s: Not enough memory.\n"
+                      "utime(%s): %s\n"
+                      "Failed to unlink symlink `%s': %s\n"
+
+                      */

@@ -1,0 +1,286 @@
+<RCC>
+    <qresource prefix="/icon/menu">
+        <file>image/icon/Add.png</file>
+        <file>image/icon/Add Appointment.png</file>
+        <file>image/icon/Add Green Button.png</file>
+        <file>image/icon/Add To Favorite.png</file>
+        <file>image/icon/Appointment Cool.png</file>
+        <file>image/icon/Appointment Urgent.png</file>
+        <file>image/icon/Audio CD.png</file>
+        <file>image/icon/Audio Document.png</file>
+        <file>image/icon/Backup Green Button.png</file>
+        <file>image/icon/Bandwidth.png</file>
+        <file>image/icon/Blue Ball.png</file>
+        <file>image/icon/Cancel Red Button.png</file>
+        <file>image/icon/CD.png</file>
+        <file>image/icon/Clear Green Button.png</file>
+        <file>image/icon/Coherence.png</file>
+        <file>image/icon/Desktop.png</file>
+        <file>image/icon/Discussion.png</file>
+        <file>image/icon/Document.png</file>
+        <file>image/icon/Donate.png</file>
+        <file>image/icon/Eject Blue Button.png</file>
+        <file>image/icon/Export To Audio Document.png</file>
+        <file>image/icon/Export To Document.png</file>
+        <file>image/icon/Export To Movie Document.png</file>
+        <file>image/icon/Export To Picture Document.png</file>
+        <file>image/icon/Favorite.png</file>
+        <file>image/icon/Forward Mail.png</file>
+        <file>image/icon/Fullscreen.png</file>
+        <file>image/icon/Gear.png</file>
+        <file>image/icon/Gear Alt.png</file>
+        <file>image/icon/Get Document.png</file>
+        <file>image/icon/Get Info Blue Button.png</file>
+        <file>image/icon/Get Info Purple Button.png</file>
+        <file>image/icon/Get Mail.png</file>
+        <file>image/icon/Green Ball.png</file>
+        <file>image/icon/Grey Ball.png</file>
+        <file>image/icon/Help Blue Button.png</file>
+        <file>image/icon/Help Purple Button.png</file>
+        <file>image/icon/History.png</file>
+        <file>image/icon/iChat.png</file>
+        <file>image/icon/iChat Alt.png</file>
+        <file>image/icon/Import Audio Document.png</file>
+        <file>image/icon/Import Document.png</file>
+        <file>image/icon/Import Movie Document.png</file>
+        <file>image/icon/Import Picture Document.png</file>
+        <file>image/icon/Internet History.png</file>
+        <file>image/icon/Mail.png</file>
+        <file>image/icon/Menu.png</file>
+        <file>image/icon/Menu Item.png</file>
+        <file>image/icon/Minus Green Button.png</file>
+        <file>image/icon/Minus Red Button.png</file>
+        <file>image/icon/Movie CD.png</file>
+        <file>image/icon/Movie Document.png</file>
+        <file>image/icon/Mr. Bomb.png</file>
+        <file>image/icon/Network.png</file>
+        <file>image/icon/New Document.png</file>
+        <file>image/icon/New Mail.png</file>
+        <file>image/icon/Orange Ball.png</file>
+        <file>image/icon/Pause.png</file>
+        <file>image/icon/Pause All.png</file>
+        <file>image/icon/Pause Blue Button.png</file>
+        <file>image/icon/Pause Green Button.png</file>
+        <file>image/icon/Picture CD.png</file>
+        <file>image/icon/Picture Document.png</file>
+        <file>image/icon/Play.png</file>
+        <file>image/icon/Play All.png</file>
+        <file>image/icon/Play Blue Button.png</file>
+        <file>image/icon/Play Green Button.png</file>
+        <file>image/icon/Plugin Green Button.png</file>
+        <file>image/icon/Purple Ball.png</file>
+        <file>image/icon/Record Button.png</file>
+        <file>image/icon/Record Red Button.png</file>
+        <file>image/icon/Red Ball.png</file>
+        <file>image/icon/Remove.png</file>
+        <file>image/icon/Remove Appointment.png</file>
+        <file>image/icon/Remove Document.png</file>
+        <file>image/icon/Rename Document.png</file>
+        <file>image/icon/Run.png</file>
+        <file>image/icon/Send Document.png</file>
+        <file>image/icon/Send Mail.png</file>
+        <file>image/icon/Smiley.png</file>
+        <file>image/icon/Smiley Blue.png</file>
+        <file>image/icon/Smiley Sad.png</file>
+        <file>image/icon/Smiley Sad Blue.png</file>
+        <file>image/icon/Smiley Star.png</file>
+        <file>image/icon/Smiley Star Pink.png</file>
+        <file>image/icon/Smiley Star Sad.png</file>
+        <file>image/icon/Spotlight Blue Button.png</file>
+        <file>image/icon/Star.png</file>
+        <file>image/icon/Stop.png</file>
+        <file>image/icon/Stop All.png</file>
+        <file>image/icon/Stop Green Button.png</file>
+        <file>image/icon/Stop Red Button.png</file>
+        <file>image/icon/Terminal.png</file>
+        <file>image/icon/Transfer.png</file>
+        <file>image/icon/Transfer Document.png</file>
+        <file>image/icon/Trash Empty.png</file>
+        <file>image/icon/Trash Full.png</file>
+        <file>image/icon/Universal Binary.png</file>
+        <file>image/icon/Unread Mail.png</file>
+        <file>image/icon/Unread Mail Alt.png</file>
+        <file>image/icon/User.png</file>
+        <file>image/icon/Users.png</file>
+        <file>image/icon/Web Browser.png</file>
+        <file>image/icon/Write Document.png</file>
+        <file>image/icon/Yellow Ball.png</file>
+        <file>image/icon/yl/about.png</file>
+        <file>image/icon/yl/add.png</file>
+        <file>image/icon/yl/apple.png</file>
+        <file>image/icon/yl/arrow_down.png</file>
+        <file>image/icon/yl/arrow_left.png</file>
+        <file>image/icon/yl/arrow_left_down.png</file>
+        <file>image/icon/yl/arrow_left_up.png</file>
+        <file>image/icon/yl/arrow_right.png</file>
+        <file>image/icon/yl/arrow_right_down.png</file>
+        <file>image/icon/yl/arrow_right_up.png</file>
+        <file>image/icon/yl/arrow_up.png</file>
+        <file>image/icon/yl/Backward.png</file>
+        <file>image/icon/yl/Backward_01.png</file>
+        <file>image/icon/yl/charts.png</file>
+        <file>image/icon/yl/charts01.png</file>
+        <file>image/icon/yl/charts02.png</file>
+        <file>image/icon/yl/charts03.png</file>
+        <file>image/icon/yl/charts04.png</file>
+        <file>image/icon/yl/charts05.png</file>
+        <file>image/icon/yl/charts06.png</file>
+        <file>image/icon/yl/chat.png</file>
+        <file>image/icon/yl/chat_01.png</file>
+        <file>image/icon/yl/clock.png</file>
+        <file>image/icon/yl/clock_01.png</file>
+        <file>image/icon/yl/close.png</file>
+        <file>image/icon/yl/Cycle.png</file>
+        <file>image/icon/yl/del.png</file>
+        <file>image/icon/yl/Dollar.png</file>
+        <file>image/icon/yl/door.png</file>
+        <file>image/icon/yl/down.png</file>
+        <file>image/icon/yl/download.png</file>
+        <file>image/icon/yl/earth.png</file>
+        <file>image/icon/yl/email.png</file>
+        <file>image/icon/yl/Favorite.png</file>
+        <file>image/icon/yl/feed.png</file>
+        <file>image/icon/yl/flag.png</file>
+        <file>image/icon/yl/Forward.png</file>
+        <file>image/icon/yl/Forward_01.png</file>
+        <file>image/icon/yl/group.png</file>
+        <file>image/icon/yl/heart.png</file>
+        <file>image/icon/yl/home.png</file>
+        <file>image/icon/yl/key.png</file>
+        <file>image/icon/yl/left.png</file>
+        <file>image/icon/yl/Link.png</file>
+        <file>image/icon/yl/locked.png</file>
+        <file>image/icon/yl/locked_01.png</file>
+        <file>image/icon/yl/money_01.png</file>
+        <file>image/icon/yl/money_02.png</file>
+        <file>image/icon/yl/money_03.png</file>
+        <file>image/icon/yl/music.png</file>
+        <file>image/icon/yl/music_01.png</file>
+        <file>image/icon/yl/object_03.png</file>
+        <file>image/icon/yl/object_04.png</file>
+        <file>image/icon/yl/object_05.png</file>
+        <file>image/icon/yl/object_06.png</file>
+        <file>image/icon/yl/object_07.png</file>
+        <file>image/icon/yl/object_08.png</file>
+        <file>image/icon/yl/object_09.png</file>
+        <file>image/icon/yl/object_10.png</file>
+        <file>image/icon/yl/object_11.png</file>
+        <file>image/icon/yl/object_12.png</file>
+        <file>image/icon/yl/object_13.png</file>
+        <file>image/icon/yl/object_14.png</file>
+        <file>image/icon/yl/object_15.png</file>
+        <file>image/icon/yl/ok.png</file>
+        <file>image/icon/yl/open.png</file>
+        <file>image/icon/yl/pause.png</file>
+        <file>image/icon/yl/Percentage.png</file>
+        <file>image/icon/yl/Phone.png</file>
+        <file>image/icon/yl/power.png</file>
+        <file>image/icon/yl/question.png</file>
+        <file>image/icon/yl/Recycle.png</file>
+        <file>image/icon/yl/refresh.png</file>
+        <file>image/icon/yl/Repeat.png</file>
+        <file>image/icon/yl/Repeat_01.png</file>
+        <file>image/icon/yl/right.png</file>
+        <file>image/icon/yl/shopping.png</file>
+        <file>image/icon/yl/star.png</file>
+        <file>image/icon/yl/stop.png</file>
+        <file>image/icon/yl/tool.png</file>
+        <file>image/icon/yl/unlocked.png</file>
+        <file>image/icon/yl/unlocked_01.png</file>
+        <file>image/icon/yl/up.png</file>
+        <file>image/icon/yl/up_01.png</file>
+        <file>image/icon/yl/user.png</file>
+        <file>image/icon/yl/windows.png</file>
+        <file>image/icon/yl/zoom.png</file>
+        <file>image/icon/yl/zoomin.png</file>
+        <file>image/icon/yl/zoomout.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>image/icon/big/mimearchive.png</file>
+        <file>image/icon/big/mimegeneral.png</file>
+        <file>image/icon/big/mimemusic.png</file>
+        <file>image/icon/big/mimeother.png</file>
+        <file>image/icon/big/mimevideo.png</file>
+        <file>image/icon/big/utamaalldownloads.png</file>
+        <file>image/icon/big/utamacompressed.png</file>
+        <file>image/icon/big/utamadocument.png</file>
+        <file>image/icon/big/utamafinished.png</file>
+        <file>image/icon/big/utamamusic.png</file>
+        <file>image/icon/big/utamaother.png</file>
+        <file>image/icon/big/utamavideo.png</file>
+        <file>image/icon/big/aktion.png</file>
+        <file>image/icon/big/batch.png</file>
+        <file>image/icon/big/browser.png</file>
+        <file>image/icon/big/category.png</file>
+        <file>image/icon/big/categoryfiles.png</file>
+        <file>image/icon/big/categoryfinish.png</file>
+        <file>image/icon/big/cfCategory.png</file>
+        <file>image/icon/big/cfConnection.png</file>
+        <file>image/icon/big/cfGeneral.png</file>
+        <file>image/icon/big/cfUserLogin.png</file>
+        <file>image/icon/big/cfView.png</file>
+        <file>image/icon/big/close.png</file>
+        <file>image/icon/big/config.png</file>
+        <file>image/icon/big/credits.png</file>
+        <file>image/icon/big/download.png</file>
+        <file>image/icon/big/download_manager.png</file>
+        <file>image/icon/big/error.png</file>
+        <file>image/icon/big/export.png</file>
+        <file>image/icon/big/folder_home.png</file>
+        <file>image/icon/big/folder_outbox.png</file>
+        <file>image/icon/big/grabber.png</file>
+        <file>image/icon/big/help.png</file>
+        <file>image/icon/big/highlight.png</file>
+        <file>image/icon/big/Ice.png</file>
+        <file>image/icon/big/import.png</file>
+        <file>image/icon/big/important.png</file>
+        <file>image/icon/big/Interdit.png</file>
+        <file>image/icon/big/Internet Options.png</file>
+        <file>image/icon/big/kaboodle.png</file>
+        <file>image/icon/big/kaddressbook.png</file>
+        <file>image/icon/big/kalarm.png</file>
+        <file>image/icon/big/karm.png</file>
+        <file>image/icon/big/kdmconfig.png</file>
+        <file>image/icon/big/ktimer.png</file>
+        <file>image/icon/big/ktip.png</file>
+        <file>image/icon/big/kworldclock.png</file>
+        <file>image/icon/big/List manager.png</file>
+        <file>image/icon/big/logout.png</file>
+        <file>image/icon/big/lsongs.png</file>
+        <file>image/icon/big/manual.png</file>
+        <file>image/icon/big/Moins.png</file>
+        <file>image/icon/big/Moon_Phase_Full_Earth.png</file>
+        <file>image/icon/big/network.png</file>
+        <file>image/icon/big/password.png</file>
+        <file>image/icon/big/personal.png</file>
+        <file>image/icon/big/Pollen_Flower.png</file>
+        <file>image/icon/big/preference.png</file>
+        <file>image/icon/big/quit.png</file>
+        <file>image/icon/big/Rainbow.png</file>
+        <file>image/icon/big/Recharger.png</file>
+        <file>image/icon/big/reminders.png</file>
+        <file>image/icon/big/remote.png</file>
+        <file>image/icon/big/remove.png</file>
+        <file>image/icon/big/removeall.png</file>
+        <file>image/icon/big/restart.png</file>
+        <file>image/icon/big/resume-01.png</file>
+        <file>image/icon/big/resume-02.png</file>
+        <file>image/icon/big/resume.png</file>
+        <file>image/icon/big/scheduler.png</file>
+        <file>image/icon/big/scriptman.png</file>
+        <file>image/icon/big/search.png</file>
+        <file>image/icon/big/Service Manager.png</file>
+        <file>image/icon/big/speed.png</file>
+        <file>image/icon/big/start.png</file>
+        <file>image/icon/big/stop.png</file>
+        <file>image/icon/big/stopall.png</file>
+        <file>image/icon/big/stopque.png</file>
+        <file>image/icon/big/utamaprograms.png</file>
+        <file>image/icon/big/utamaunfinished.png</file>
+        <file>image/icon/big/web.png</file>
+        <file>image/icon/big/wifi.png</file>
+        <file>image/icon/big/yast_http.png</file>
+        <file>image/icon/big/yast_network.png</file>
+        <file>image/icon/big/yast_runlevel.png</file>
+    </qresource>
+</RCC>

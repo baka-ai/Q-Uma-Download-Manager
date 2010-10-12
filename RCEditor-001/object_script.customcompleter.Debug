@@ -1,0 +1,12 @@
+INPUT(
+./debug/main.o
+./debug/textedit.o
+./debug/dialogeditor.o
+./debug/highlighter.o
+./debug/wgetrchelp.o
+./debug/moc_textedit.o
+./debug/moc_dialogeditor.o
+./debug/moc_highlighter.o
+./debug/moc_wgetrchelp.o
+./debug/qrc_customcompleter.o
+);
